@@ -43,5 +43,6 @@ The dataset used is the `ml-latest-small` version from MovieLens, containing 100
 - Explicit feedback format
 - 
 ## Modelling and Evaluation
-
+The project implemented a content-based movie recommendation system using cosine similarity on TF-IDF vectors of movie genres and descriptions.The system works by understanding what kind of movies a person likes—such as genre or storyline—and then suggesting similar ones they haven’t seen yet. Evaluation was carried out using RMSE and MAE metrics.
 ## Conclusion
+The recommender system demonstrated effective personalized recommendations with good predictive performance. Future improvements could include hybrid approaches combining content and collaborative filtering and integrating user feedback or deep learning models for enhanced accuracy.

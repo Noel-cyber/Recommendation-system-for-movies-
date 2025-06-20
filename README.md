@@ -1,8 +1,14 @@
 # Content Based Movie Recommendation Systems
 
 ## Business Problem
+In the age of digital content, users are often overwhelmed by thousands of movie choices. Without a guiding system, users may miss out on films they would have enjoyed, leading to reduced satisfaction and platform engagement.
+
+> **How can we accurately recommend the Top 5 movies to a user based on their historical movie ratings using content-based filtering techniques?**
+
+This project aims to build such a recommender system using content based filtering, trained on historical ratings data from MovieLens.
 
 ## Project Overview
+This project builds a **personalized movie recommendation system** using the **MovieLens dataset** to suggest films based on user ratings
 
 ## Business Understanding
 ### Objective
